@@ -1,0 +1,9 @@
+Flask
+Flask-RESTx
+mysql-connector-python
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-Migrate
+flask-socketio
+flask-jwt-extended
+eventlet
